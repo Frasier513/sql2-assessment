@@ -1,2 +1,17 @@
-# sql2-assessment
-SQL Assessment 2 - Full Stack Software Development at Great Learning
+# SQL Assessment 2
+
+## 📚 Course
+Full Stack Software Development: Building Scalable Cloud Applications  
+Great Learning — May 2025 Cohort
+
+## 📝 About
+Advanced SQL topics including subqueries, CTEs, window functions, indexes, transactions, and stored procedures.
+
+## 🛠️ Technologies
+- SQL
+- Advanced Queries
+- Window Functions
+- Transactions
+
+## ✅ Score
+57/60
