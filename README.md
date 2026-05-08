@@ -2,7 +2,7 @@
 
 ## 📚 Course
 Full Stack Software Development: Building Scalable Cloud Applications  
-Great Learning — May 2025 Cohort
+May 2025 Cohort
 
 ## 📝 About
 Advanced SQL topics including subqueries, CTEs, window functions, indexes, transactions, and stored procedures.
